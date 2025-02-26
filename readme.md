@@ -1,7 +1,5 @@
 # TDD Lecture Codealong
 
-You can play with the currently set up environment from this codealong endpoint to start making your own tests!
-
 ### Steps To Get Going
 
 - Install `jest` with `npm install`, which will look at the `dependencies` section of the `package.json` file and install what's there--in this case, it's just `jest`.
